@@ -1,6 +1,6 @@
 # OsBayes: Bayesian Spatial Analysis of Osprey Nesting Patterns
 
-![Osprey Nesting Locations in NC](figures/nc_osprey_nesting_sites.png)
+![Osprey Nesting Locations in NC](figures/nc_osprey_nest_sites.png)
 
 ### Primary Goals:
 
