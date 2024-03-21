@@ -1,3 +1,6 @@
+data/
+!data/coords.rds
+
 # History files
 .Rhistory
 .Rapp.history
